@@ -1,0 +1,26 @@
+.button {
+    margin: 5px;
+    margin-bottom: 35px;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    border: hidden;
+    box-shadow: 2px 2px 2px 2px rgba(46, 47, 66, 0.08), 2px 2px 2px 2px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
+    cursor: pointer;
+}
+
+.good:hover {
+    background-color: var(--good-background-color);
+    color: var(--button-font-color);
+}
+
+.neutral:hover {
+    background-color: var(--neutral-background-color);
+    color: var(--button-font-color);
+}
+
+.bad:hover {
+    background-color: var(--bad-background-color);
+    color: var(--button-font-color);
+}

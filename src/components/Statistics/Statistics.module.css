@@ -1,0 +1,16 @@
+.wrap {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.h2 {
+    margin-bottom: 35px;
+    font-size: 40px;
+    color: rgb(11, 11, 59)
+}
+
+.p {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
